@@ -2792,6 +2792,10 @@ input, select, textarea {
 			margin: 0.25em 0 0 0;
 		}
 
+		.nick {
+			font-size: 0.70em;
+		}
+
 /* Footer */
 
 	#footer {
